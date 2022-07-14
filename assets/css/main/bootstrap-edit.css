@@ -3,5 +3,5 @@
 }
 
 .underline:hover {
-    text-decoration: none !important;
+    text-decoration: underline !important;
 }
